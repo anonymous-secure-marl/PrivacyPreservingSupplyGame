@@ -1,0 +1,10 @@
+*__pycache__*
+*.amltmp
+*.amlignore
+.ipynb_aml_checkpoints/*
+*.png
+*dockerfiles*
+*outputs*
+*fe*
+*.ipynb
+requirements.txt

@@ -1,0 +1,145 @@
+ ============== Op: 0 (#Ops: 1) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Finding parameters for security 40 and field size ~2^132
+Need ciphertext modulus of length 388 and 16384 slots
+Rounding up to 408, giving extra slack of 20 bits
+	 pr0 = 661055968790248598951915308032771039828404682964281219284648795274405791236254523526423354411950651871779289959090087919617  :   408
+Minimal MAX_MOD_SZ = 7
+Time = 0.641405 seconds 
+Data sent = 11.5331 MB
+Global data sent = 23.0663 MB
+ ============== Op: 0 (#Ops: 10) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.700778 seconds 
+Data sent = 11.5759 MB
+Global data sent = 23.1518 MB
+ ============== Op: 0 (#Ops: 100) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.749931 seconds 
+Data sent = 46.595 MB
+Global data sent = 93.19 MB
+ ============== Op: 0 (#Ops: 1000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 1.70145 seconds 
+Data sent = 82.9088 MB
+Global data sent = 165.818 MB
+ ============== Op: 0 (#Ops: 10000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 9.17642 seconds 
+Data sent = 594.134 MB
+Global data sent = 1188.27 MB
+ ============== Op: 0 (#Ops: 100000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 83.0422 seconds 
+Data sent = 5677.08 MB
+Global data sent = 11354.2 MB
+ ============== Op: 1 (#Ops: 1) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.626377 seconds 
+Data sent = 8.64725 MB
+Global data sent = 17.2945 MB
+ ============== Op: 1 (#Ops: 10) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.653362 seconds 
+Data sent = 8.65006 MB
+Global data sent = 17.3001 MB
+ ============== Op: 1 (#Ops: 100) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.745802 seconds 
+Data sent = 34.9132 MB
+Global data sent = 69.8264 MB
+ ============== Op: 1 (#Ops: 1000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.947124 seconds 
+Data sent = 54.2108 MB
+Global data sent = 108.422 MB
+ ============== Op: 1 (#Ops: 10000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 4.73301 seconds 
+Data sent = 285.778 MB
+Global data sent = 571.556 MB
+ ============== Op: 1 (#Ops: 100000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 39.6994 seconds 
+Data sent = 2674.5 MB
+Global data sent = 5348.99 MB
+ ============== Op: 2 (#Ops: 1) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.667508 seconds 
+Data sent = 11.1159 MB
+Global data sent = 22.2318 MB
+ ============== Op: 2 (#Ops: 10) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Tape requires prime of bit length 174
+Run with '-lgp 174'
+Purging preprocessed data because something is wrong
+Purging failed. This might be because preprocessed data is incomplete.
+SECURITY FAILURE; YOU ARE ON YOUR OWN NOW!
+terminate called after throwing an instance of 'invalid_params'
+  what():  Invalid Params
+ ============== Op: 2 (#Ops: 100) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Tape requires prime of bit length 174
+Run with '-lgp 174'
+Purging preprocessed data because something is wrong
+Purging failed. This might be because preprocessed data is incomplete.
+SECURITY FAILURE; YOU ARE ON YOUR OWN NOW!
+terminate called after throwing an instance of 'invalid_params'
+  what():  Invalid Params
+ ============== Op: 2 (#Ops: 1000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Tape requires prime of bit length 174
+Run with '-lgp 174'
+Purging preprocessed data because something is wrong
+Purging failed. This might be because preprocessed data is incomplete.
+SECURITY FAILURE; YOU ARE ON YOUR OWN NOW!
+terminate called after throwing an instance of 'invalid_params'
+  what():  Invalid Params
+ ============== Op: 2 (#Ops: 10000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Tape requires prime of bit length 174
+Run with '-lgp 174'
+Purging preprocessed data because something is wrong
+Purging failed. This might be because preprocessed data is incomplete.
+SECURITY FAILURE; YOU ARE ON YOUR OWN NOW!
+terminate called after throwing an instance of 'invalid_params'
+  what():  Invalid Params
+ ============== Op: 2 (#Ops: 100000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Tape requires prime of bit length 174
+Run with '-lgp 174'
+Purging preprocessed data because something is wrong
+Purging failed. This might be because preprocessed data is incomplete.
+SECURITY FAILURE; YOU ARE ON YOUR OWN NOW!
+terminate called after throwing an instance of 'invalid_params'
+  what():  Invalid Params
+ ============== Op: 3 (#Ops: 1) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.528651 seconds 
+Data sent = 7.46817 MB
+Global data sent = 14.9363 MB
+ ============== Op: 3 (#Ops: 10) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.550768 seconds 
+Data sent = 7.47357 MB
+Global data sent = 14.9471 MB
+ ============== Op: 3 (#Ops: 100) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.676846 seconds 
+Data sent = 29.9365 MB
+Global data sent = 59.873 MB
+ ============== Op: 3 (#Ops: 1000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 0.673329 seconds 
+Data sent = 30.4885 MB
+Global data sent = 60.977 MB
+ ============== Op: 3 (#Ops: 10000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 2.0746 seconds 
+Data sent = 122.258 MB
+Global data sent = 244.516 MB
+ ============== Op: 3 (#Ops: 100000) ==============
+No modulus found in Player-Data//2-Dp-132/Params-Data, generating 132-bit prime
+Time = 16.5836 seconds 
+Data sent = 996.676 MB
+Global data sent = 1993.35 MB

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libSCI-FloatBeacon.a  CMakeFiles/SCI-FloatBeacon.dir/library_float_beacon.cpp.o CMakeFiles/SCI-FloatBeacon.dir/globals_float.cpp.o CMakeFiles/SCI-FloatBeacon.dir/cleartext_library_float.cpp.o
+/usr/bin/ranlib ../lib/libSCI-FloatBeacon.a
